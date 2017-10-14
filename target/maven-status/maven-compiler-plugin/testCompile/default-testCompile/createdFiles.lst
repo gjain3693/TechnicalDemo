@@ -1,0 +1,9 @@
+negativescenarios\EmailUniqueConstraintTest.class
+negativescenarios\EmailNotEnteredTest.class
+negativescenarios\NameNotEnteredTest.class
+negativescenarios\AllMandateValuesNotEnteredTest.class
+negativescenarios\PasswordNotEnteredTest.class
+positivescenario\NewUserRegistrationTest.class
+runner\TestSuite.class
+negativescenarios\NameUniqueConstraintTest.class
+negativescenarios\ConfirmPasswordTest.class

@@ -1,0 +1,33 @@
+Test scenarios
+
+positive:
+========
+Register New User
+(enter unique name, unique email, password, repeat password and click on submmit )
+
+Negative scenarios
+==================
+1. Blank all mandate values and attempt registration
+(do not enter any value)
+
+2. Attempt registration without user name.
+(do not enter username)
+
+3. Attempt registration without email.
+(do not enter email)
+
+4. Attempt registration without password.
+(do not enter password)
+
+5. Attempt registration without repeat password.
+(do not enter repeat password)
+
+6. Attempt registration with existing user name.
+(enter duplicate username)
+
+7. Attempt registration with existing email id .
+(duplicate email)
+
+8. Attempt registration with different password and repeat password.
+(password and repeat password not equal)
+
