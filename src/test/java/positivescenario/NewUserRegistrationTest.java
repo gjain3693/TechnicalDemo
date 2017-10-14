@@ -36,7 +36,7 @@ public class NewUserRegistrationTest {
 
 		String userName = "Gaurav Jain" + date;
 		String password = "Ins24me*";
-		String email = "nicks4uever1@gmail.com";
+		String email = "nicks"+date+"@gmail.com";
 
 		driver.findElement(By.xpath("//*[@id='name']")).sendKeys(userName);
 		driver.findElement(By.xpath("//*[@id='email']")).sendKeys(email);
